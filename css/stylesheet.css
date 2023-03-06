@@ -45,7 +45,7 @@
 @media (max-width: 480px) {
   .title-large {
     font-size: 42px;
-    color: blue;
+    color: red;
   }
   .text-small {
     font-size: 32px;
