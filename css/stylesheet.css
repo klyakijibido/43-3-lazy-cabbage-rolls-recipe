@@ -43,8 +43,11 @@
 }
 
 @media (max-width: 480px) {
-  .image {
-    width: 250px;
+  .title-large {
+    font-size: 42px;
+  }
+  .text-small {
+    font-size: 32px;
   }
 }
 
