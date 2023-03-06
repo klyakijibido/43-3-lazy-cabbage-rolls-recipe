@@ -42,15 +42,12 @@
   margin-bottom: 80px;
 }
 
-/*@media (max-width: 480px) {*/
-/*  .title-large {*/
-/*    font-size: 42px;*/
-/*    color: red;*/
-/*  }*/
-/*  .text-small {*/
-/*    font-size: 32px;*/
-/*  }*/
-/*}*/
+@media (max-width: 480px) {
+
+  .title-large {
+    color: green;
+  }
+}
 
 .list-item-info,
 .block,
